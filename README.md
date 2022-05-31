@@ -1,5 +1,5 @@
 # 42_SO_LONG
-  mlx .... bla bla 
+
   
   # THE_GAMEPLAY :
   
